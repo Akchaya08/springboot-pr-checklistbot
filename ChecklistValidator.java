@@ -19,3 +19,6 @@ public class ChecklistValidator {
         return hasJiraTicket(text) && hasTestCasesMentioned(text);
     }
 }
+//test pr checklist
+//dummy change
+
